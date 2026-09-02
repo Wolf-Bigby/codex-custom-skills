@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZZ Scientific Plotting"
+  short_description: "Evidence-safe scientific figures for papers and slides"
+  default_prompt: "Use $zz-scientific-plotting to create or audit a compact scientific figure with verified evidence semantics, clear geometry, and publication-ready exports."
