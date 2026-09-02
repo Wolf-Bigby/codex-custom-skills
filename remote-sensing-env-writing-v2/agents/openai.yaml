@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remote Sensing Env Writing v2"
+  short_description: "White Group SCI writing and rebuttals"
+  default_prompt: "Use $remote-sensing-env-writing-v2 to revise this remote-sensing environmental science manuscript section in the White Group style."
